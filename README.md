@@ -33,11 +33,11 @@ bash Mistral-7B-Base.sh
 
 ## Benchmarks
 
-* [AlpacaEval repo](https://github.com/tatsu-lab/alpaca_eval) for evaluation.
+* [AlpacaEval repo](https://github.com/tatsu-lab/alpaca_eval) 
 
-* [Open LLM Leadboard v1](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard).
+* [Open LLM Leadboard v1](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard)
 
-* [Open LLM Leadboard v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)  for evaluation.
+* [Open LLM Leadboard v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) 
 
 
 
