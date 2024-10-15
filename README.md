@@ -31,7 +31,7 @@ bash Mistral-7B-Base.sh
 ```
 
 
-## Benchmarks
+## Evaluation Benchmarks
 
 * [AlpacaEval repo](https://github.com/tatsu-lab/alpaca_eval) 
 
