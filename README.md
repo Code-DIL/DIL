@@ -10,7 +10,7 @@ First, install PyTorch `2.1.2` from the [PyTorch Installation Page](https://pyto
 Create a Python virtual environment using e.g. Conda:
 
 ```shell
-conda create -n SimPER python=3.10 && conda activate SimPER
+conda create -n DIL python=3.10 && conda activate DIL
 ```
 
 ```shell
