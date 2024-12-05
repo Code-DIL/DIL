@@ -22,12 +22,12 @@ python -m pip install flash-attn --no-build-isolation
 
 * Mistral-Base:
 ```shell
-bash Llama-8B-Base.sh
+bash Mistral-7B-Base.sh
 ```
 
 * Llama3-Base:
 ```shell
-bash Mistral-7B-Base.sh
+bash Llama-8B-Base.sh
 ```
 
 
